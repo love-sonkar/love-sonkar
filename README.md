@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Love Sonkar</h1>
-<h3 align="center">A frontend developer from India</h3>
+<h3 align="center"> A full stack developer from India </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=love-sonkar&label=Profile%20views&color=0e75b6&style=flat" alt="love-sonkar" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/lovesonkar_" target="blank"><img src="https://img.shields.io/twitter/follow/lovesonkar_?logo=twitter&style=for-the-badge" alt="lovesonkar_" /></a> </p>
 
-- 🌱 I’m currently learning **Reactjs, Typescript, NextJs**
+- 🌱 I’m currently learning **Prisma, PostgreSQL, Rds, Docker**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-psi-one-98.vercel.app/](https://portfolio-psi-one-98.vercel.app/)
 
